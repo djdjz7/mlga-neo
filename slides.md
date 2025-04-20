@@ -158,6 +158,13 @@ hideInToc: True
 - 公开透明的 AP 决策体系
 
 ---
+
+# 项目宣传
+
+- 依托社团和院系微信公众号、社团主页进行宣传
+- 寻找、解决教学学习中的痛点问题，使项目无需过多宣传即可触达目标用户
+
+---
 layout: cover
 class: text-center
 hideInToc: true
