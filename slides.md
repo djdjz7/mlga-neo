@@ -158,6 +158,11 @@ hideInToc: True
 - 公开透明的 AP 决策体系
 
 ---
+layout: iframe-right
+
+# the web page source
+url: https://lcpu.dev
+---
 
 # 项目宣传
 
